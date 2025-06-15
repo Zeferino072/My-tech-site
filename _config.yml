@@ -1,0 +1,10 @@
+title: Meu Blog de Tecnologia
+author: Zeferino Vasco
+email: zeferinovasco072@gmail.com
+description: >-
+  Blog com tutoriais, dicas e novidades sobre tecnologia.
+baseurl: ""
+url: "https://zeferino072.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
